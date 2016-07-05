@@ -35,3 +35,8 @@ sayHelloToCat(catFriend)
 
 // Uncomment this line to see the error that is printed in the console.
 //sayHelloToCat()
+
+let catTwo = "Masha"
+sayHelloToCat(catTwo)
+
+sayHelloToCat("Mishu")
